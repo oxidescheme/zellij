@@ -11,7 +11,7 @@ Where function meets form.
 <p align="center">
   <a href="https://github.com/oxidescheme/zellij/stargazers"><img src="https://img.shields.io/github/stars/oxidescheme/zellij?colorA=161616&colorB=00a6ff&style=for-the-badge"></a>
   <a href="https://github.com/oxidescheme/zellij/issues"><img src="https://img.shields.io/github/issues/oxidescheme/zellij?colorA=161616&colorB=ff5655&style=for-the-badge"></a>
-  <a href="https://discord.gg/p8GcbBH5MR"><img src="https://discord.gg/p8GcbBH5MR?style=for-the-badge&color=00baaa&labelColor=161616&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/p8GcbBH5MR"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=00baaa&labelColor=161616&logo=discord&logoColor=white"></a>
 </p>
 
 *oxide* for [Zellij](https://zellij.dev/) brings the oxide colorscheme to your terminal workspace with OKLCH precision.
@@ -29,21 +29,9 @@ The full design philosophy and color system are documented in the [main oxide re
 
 ## Installation
 
-### Built-in Theme (Recommended)
-
-The simplest way to use oxide is with Zellij's built-in theme support:
-
-```kdl
-theme "oxide"
-```
-
-### Manual Installation
-
-To use the exact theme from this repository:
-
 1. Download the `oxide.kdl` file from this repository
 2. Copy it to your Zellij themes directory: `~/.config/zellij/themes/`
-3. Set the theme in your Zellij configuration:
+3. Add the theme to your Zellij configuration file (`~/.config/zellij/config.kdl`):
 
 ```kdl
 theme "oxide"
@@ -58,26 +46,6 @@ You can find the exact location of the themes directory with:
 ```bash
 zellij setup --check
 ```
-
-## Configuration
-
-### Basic Usage
-
-Add this line to your Zellij configuration file (`~/.config/zellij/config.kdl`):
-
-```kdl
-theme "oxide"
-```
-
-### Light/Dark Mode Support
-
-oxide works great as a dedicated dark theme, or combined with a light theme:
-
-```kdl
-theme "dark:oxide,light:your-light-theme"
-```
-
-Zellij will automatically switch based on your system appearance.
 
 ## Contributing
 
@@ -98,5 +66,5 @@ We follow the same philosophy as the main oxide project: minimalism doesn't mean
 MIT License - see [LICENSE](LICENSE) for details.
 
 <p align="center">
-Copyright &copy; 2025-present oxidescheme
+Copyright &copy; 2026-present oxidescheme
 </p>
