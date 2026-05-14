@@ -9,8 +9,8 @@ themes {
             emphasis_3 195 153 0
         }
         frame_selected {
-            base 222 222 222
-            background 38 38 38
+            base 238 238 238
+            background 34 34 34
             emphasis_0 237 117 110
             emphasis_1 91 182 97
             emphasis_2 59 166 245
@@ -18,7 +18,7 @@ themes {
         }
         frame_highlight {
             base 59 166 245
-            background 38 38 38
+            background 34 34 34
             emphasis_0 237 117 110
             emphasis_1 91 182 97
             emphasis_2 59 166 245
@@ -34,8 +34,8 @@ themes {
             emphasis_3 195 153 0
         }
         text_selected {
-            base 222 222 222
-            background 38 38 38
+            base 238 238 238
+            background 34 34 34
             emphasis_0 237 117 110
             emphasis_1 91 182 97
             emphasis_2 59 166 245
@@ -51,8 +51,8 @@ themes {
             emphasis_3 195 153 0
         }
         ribbon_selected {
-            base 222 222 222
-            background 38 38 38
+            base 238 238 238
+            background 34 34 34
             emphasis_0 237 117 110
             emphasis_1 91 182 97
             emphasis_2 59 166 245
@@ -61,7 +61,7 @@ themes {
 
         table_title {
             base 206 206 206
-            background 38 38 38
+            background 34 34 34
             emphasis_0 237 117 110
             emphasis_1 91 182 97
             emphasis_2 59 166 245
@@ -76,8 +76,8 @@ themes {
             emphasis_3 195 153 0
         }
         table_cell_selected {
-            base 222 222 222
-            background 38 38 38
+            base 238 238 238
+            background 34 34 34
             emphasis_0 237 117 110
             emphasis_1 91 182 97
             emphasis_2 59 166 245
@@ -93,8 +93,8 @@ themes {
             emphasis_3 195 153 0
         }
         list_selected {
-            base 222 222 222
-            background 38 38 38
+            base 238 238 238
+            background 34 34 34
             emphasis_0 237 117 110
             emphasis_1 91 182 97
             emphasis_2 59 166 245
@@ -125,7 +125,7 @@ themes {
             player_6 150 143 247
             player_7 228 130 51
             player_8 206 206 206
-            player_9 222 222 222
+            player_9 238 238 238
             player_10 204 123 209
         }
     }
